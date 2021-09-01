@@ -31,4 +31,4 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-   ![Snake animation](https://github.com/ciceromngr/CiceroRomao/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ciceromngr/ciceromngr/blob/output/github-contribution-grid-snake.svg)
