@@ -1,4 +1,4 @@
-## Sejam bem vindos ao meu github repository! , eu sou Cicero Romao
+## Sejam bem vindos ao meu Repositorio do GitHub
 
 -👨‍🎓 Atualmente estou na Faculdade de Tecnologia da Informação e comunicação
 <br>
