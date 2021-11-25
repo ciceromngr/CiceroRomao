@@ -4,12 +4,7 @@
 <br>
 -📚 Na Horas livres estudando nodejs with typescript
 
-<div>
-  <a href="https://github.com/ciceromngr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ciceromngr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceromngr&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="gif" height="170" width="170" src="https://github.com/ciceromngr/CiceroRomao/blob/main/gif/code-coding.gif">
-</div>
+
   
  <h3> Front-end </h3>
 
