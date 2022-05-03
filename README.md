@@ -28,7 +28,7 @@
 
 <p align="left">
 <!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ciceromngr&show_icons=true&theme=vision-friendly-dark" alt="ciceromngr's stats"/> -->
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceromngr&layout=compact&theme=vision-friendly-dark" alt="ciceromngr's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceromngr&layout=compact&theme=vision-friendly-dark" alt="ciceromngr's most languages"/>
 </p>
 
 <br><br>
