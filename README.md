@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ciceromngr/a2b5a381b73f3984a026de10f8858ee3/raw/70c95ae7bd30011b0944301cc2e56c2657d81e1d/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cicero Romão</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Backend developer with a focus on evolving and being able to help the community.
 - 💬 Ask me about **Javascript: Node.js, Typescript, ReactJs,
