@@ -8,6 +8,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
